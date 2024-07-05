@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geekspire LK - Coder, Developer, and Tech Enthusiast</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e6f7ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007acc;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px 0;
+        }
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+        .about, .youtube {
+            background-color: #f0f8ff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+        .logo {
+            width: 100px; /* Adjust the size as needed */
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="logo.png" alt="Geekspire LK Logo" class="logo">
+            <h1>Geekspire LK</h1>
+            <p>Coder, Developer, and Tech Enthusiast</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Hello! I am Geekspire LK, a passionate coder, developer, and tech enthusiast. I love exploring new technologies and sharing my knowledge with others. Whether it's unboxing the latest gadgets or creating programming tutorials, I am always excited to dive into new projects and challenges. Stay tuned to learn more about my tech adventures!</p>
+        </section>
+
+        <section class="youtube">
+            <h2>My YouTube Channel</h2>
+            <p>Check out my YouTube channel where I share content on various tech topics including unboxing gadgets like the Casio fx-991 CW Calculator and programming tutorials like writing a function for Leap Year in Python for HackerRank solutions. Subscribe to stay updated with my latest videos!</p>
+            <a href="https://www.youtube.com/channel/UCGj5etMUVQtvUGomxr8ArWQ" target="_blank">Visit My YouTube Channel</a>
+        </section>
+    </div>
+</body>
+</html>
+
